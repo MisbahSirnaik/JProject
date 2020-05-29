@@ -1,0 +1,5 @@
+D:\JProject>javac -cp hibernatejar\* *.java
+Note: ViewFrame.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+D:\JProject>java -cp hibernatejar\*;. MainFrame
