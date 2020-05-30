@@ -1,8 +1,21 @@
-## Welcome to GitHub Pages
+## Employee Management System
 
-You can use the [editor on GitHub](https://github.com/MisbahSirnaik/JProject/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+1. Java Program GUI using Swings
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2. Hibernate Framework
+
+3. CRUD Operations
+
+4. Add Employee 
+
+5. View Employee 
+
+6. Update Employee
+
+7. Delete Employee Details
+
+8. Exemplary UI design
+
 
 ### Markdown
 
